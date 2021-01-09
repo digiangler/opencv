@@ -1,0 +1,6 @@
+__pycache__
+.mypy_cache
+.pytest_cache
+.history
+gray.jpg
+sample.jpg
